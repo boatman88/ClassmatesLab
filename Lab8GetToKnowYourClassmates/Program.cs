@@ -13,11 +13,11 @@ namespace Lab8GetToKnowYourClassmates
             //3) Learn about someone's either hometown or favorite food
 
                                                     //0,        1,      2
-            List<string> names = new List<string>() { "Tommy", "Joey", "Phil" };
+            List<string> names = new List<string>() { "Tommy", "Mark", "James", "Andrew", "Maggie", "Jerome", "Trent", "Troy", "Kevin", "Josh", "Sean", "Kate"};
             //given our list of names, how do we tie hometowns/favoritefoods to a particular person?
-            List<string> foods = new List<string>() { "Chicken Curry", "Big Macs", "Tika Masala" };
-            List<string> hometown = new List<string>() { "Grand Rapids", "Raleigh", "St Louis" };
-            List<string> operatingSystem = new List<string>() { "Windows", "Linux", "OSX" };
+            List<string> foods = new List<string>() { "Chicken Curry", "Cilantro", "Sushi", "Sushi", "Movie theater popcorn", "Italian Cuisine", "Tacos", "Broccoli", "Asian Cuisine", "Nalesniki", "Meat", "Pizza"};
+            List<string> hometown = new List<string>() { "Raleigh NC", "Grand Rapids", "Toledo", "Grayslake", "Montrose", "Milwaukee WI", "Rochester", "Indian River", "Detroit", "Northville", "Eaton Rapids", "Zeeland"};
+            List<string> operatingSystem = new List<string>() { "Windows", "Linux", "Windows", "Windows", "Windows", "Windows", "Linux", "Windows", "OSX", "Windows", "Windows", "OSX"};
 
             /*PrintWholeList(names);
             PrintWholeList(foods);
