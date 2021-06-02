@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Munce\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Munce\\.nuget\\packages"
+    ]
+  }
+}
